@@ -1,4 +1,4 @@
-![MasterHead]( https://github.com/BK3820/BK3820/blob/main/Balakumar%20(3).png)
+![MasterHead]( https://github.com/BK3820/BK3820/blob/main/Balakumar%10(3).png)
 
 <h1 align="center">Hi 👋, I'm BALAKUMAR</h1>
 <h3 align="center">A passionate DATA enthusiast from India</h3>
