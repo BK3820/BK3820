@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://bktheblogger.blogspot.com/](https://bktheblogger.blogspot.com/)
 
-- 💬 Ask me about ** ML | DotNet Framework**
+- 💬 Ask me about **ML | DotNet Framework**
 
 - 📫 How to reach me **bala74573@gmail.com**
 
