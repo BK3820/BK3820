@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm BALAKUMAR</h1>
 <h3 align="center">A passionate DATA enthusiast from India</h3>
 
-- 🔭 I’m currently working on **self driving car using ML&DL**
+- 🔭 I’m currently working on **IDS**
 
-- 🌱 I’m currently learning **ML&DL**
+- 🌱 I’m currently learning **DotNet**
 
 - 👨‍💻 All of my projects are available at [https://welcome2myportfolio.web.app/](https://welcome2myportfolio.web.app/)
 
 - 📝 I regularly write articles on [https://bktheblogger.blogspot.com/](https://bktheblogger.blogspot.com/)
 
-- 💬 Ask me about **Data analyzing and visualizing**
+- 💬 Ask me about ** ML | DotNet Framework**
 
 - 📫 How to reach me **bala74573@gmail.com**
 
