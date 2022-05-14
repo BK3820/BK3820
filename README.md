@@ -1,7 +1,7 @@
 ![MasterHead]( https://github.com/BK3820/BK3820/blob/main/Consistency%20pays.png)
 
 <h1 align="center">Hi 👋, I'm BALAKUMAR</h1>
-<h3 align="center">A passionate DATA enthusiast from India</h3>
+<h3 align="center">A passionate DATA enthusiast and Developer from India</h3>
 
 - 🔭 I’m currently working on **IDS**
 
