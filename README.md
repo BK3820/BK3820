@@ -1,8 +1,4 @@
-Here's the updated README with your website and blog links:
 
----
-
-![MasterHead](https://github.com/BK3820/BK3820/blob/main/Consistency%20pays.png)
 
 <h1 align="center">Hello, I'm BALAKUMAR 👋</h1>
 <h3 align="center">Aspiring Azure Cloud Engineer | Innovating with Cloud Technologies</h3>
